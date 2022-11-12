@@ -1,4 +1,4 @@
-# learning statistics with jamovi (Jamovi ile İstatistik Öğrenimi)
+# Jamovi ile İstatistik Öğrenimi (learning statistics with jamovi) 
 
 
 Kaynak: Navarro DJ ve Foxcroft DR (2022). Jamovi ile İstatistik: Öğrencileri ve diğer ilgi duyanlar için hazırlanmış kitap. (Sürüm 0.75). [Orijinalini şu URL'den edinilebilirsiniz: https://learnstatswithjamovi.com/ ]
